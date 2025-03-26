@@ -14,3 +14,9 @@ const MyFunction = function (){
     
 }
 // JS is dynamic language 
+//********************************************************* */
+
+// Stack (Primitive), Heap(Non Primitve)
+
+// stack gives copy
+// heap gives original value
